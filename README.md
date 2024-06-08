@@ -44,7 +44,7 @@ It is a Pre-made Basic Minecraft Server 1.20.4 that supports Java Edition and Be
 
 <div align="center">
 <p>Recommended Hosting (<i>This is affiliated link, Not officially endorsed or sponsored by XiteNodes</i>)</p>
-  <a href="https://billing.xitenodes.com/aff.php?aff=7"><img alt="XiteNodes - Paid Server Hosting" src="https://pebblehost.com/src/img/branding/banner1.gif"></a>
+  <a href="https://billing.xitenodes.com/aff.php?aff=7"><img alt="XiteNodes - Paid Server Hosting" src="https://media.discordapp.net/attachments/879031482113466440/1248882423689904209/standard.gif?ex=666547e4&is=6663f664&hm=032bc17712e0f4075c795943d6ccacd7dfb59ba9841caeb500b4f94137580291"></a>
 </div>
 
 > If you have questions related to Geyser and FloodGate, please contact [Geyser](https://discord.gg/geysermc), This project is created for set-up tutorial only. **You'll be on your own when you try to add plugins and update to higher version.**
