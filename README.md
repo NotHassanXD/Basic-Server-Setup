@@ -12,7 +12,7 @@
 <!-- [![support][support-image]][support-invite]-->
 
  <p align="center">
-            <a href="https://discord.gg/WAh8eaF2Qq">  <iframe src="https://discord.com/widget?id=1053287321300107317&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>   </a>
+            <a href="https://discord.com/widget?id=1053287321300107317&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">  </a>
          </p>
 
 
