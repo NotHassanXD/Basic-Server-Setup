@@ -4,7 +4,7 @@
 
   <h3>Version 1.0.0</h3>
 
-  <h4>Created by <a href="https://discord.io/LIMYAW/">Mashwishi</a> | Powered by <a href="https://geysermc.org/">Geysermc</a> & <a href="https://github.com/PaperMC">PaperMC</a></h4>
+  <h4>Created by <a href="https://discord.gg/staxgaming/">MrStax</a> | Powered by <a href="https://geysermc.org/">Geysermc</a> & <a href="https://github.com/PaperMC">PaperMC</a></h4>
 
  
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B14A4MU) -->
