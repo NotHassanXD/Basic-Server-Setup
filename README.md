@@ -28,7 +28,7 @@
 
 It is a Pre-made Basic Minecraft Server 1.20.4 that supports Java Edition and Bedrock Edition to play in one running server. Java(PC/Laptop) players can join Bedrock users playing at PC/Laptop, Mobile Device, PlayStation 4 and Nintendo Switch.
 
-<img src="https://cdn.discordapp.com/attachments/1239852537037717605/1248877056406585474/maxresdefault.jpg?ex=666542e5&is=6663f165&hm=ea52a1621a64a8c7bb84c154fbe19fde7a45545d7fb85b18baa3ad4cb3f13819"/>
+<img src="https://cdn.discordapp.com/attachments/879031482113466440/1248879134197682279/maxresdefault_1.jpg?ex=666544d4&is=6663f354&hm=34e0d90d2c88486cc9ccc40838b6934f25698d88161db208bd8f7a83fd0745a1"/>
 
 ---
 
