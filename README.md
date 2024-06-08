@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/4Xau0yo.png" width="15%"/></a>
+<img src="https://cdn.discordapp.com/attachments/1239852537037717605/1248872686613041183/OIG4.jpg?ex=66653ed3&is=6663ed53&hm=179968d5b72ff3dea98f6be15e101c81a592b566915eeb03b37981058a7bcb90" width="15%"/></a>
   <h1>CUEBEE</h1>
 
   <h3>Version 1.0.0</h3>
