@@ -79,9 +79,9 @@ This is how you will set-up and host your cross-version and cross-platform Minec
 8. To edit the MOTD of your Bedrock Server open `config.yml` at `geyser` folder
    ```yml
     #Rename the motd1, motd2 and server-name strings
-    motd1: "Cuebee"
+    motd1: "MrStax/NotHassanXD"
     motd2: "A Java & Bedrock Server"
-    server-name: "Cuebee"
+    server-name: "Basic-Server-Setup"
    ```
 9. Once every thing is done you can now start your service again to your panel or `start.bat` for self-hosting
 
@@ -95,11 +95,11 @@ This is how you will set-up and host your cross-version and cross-platform Minec
 
 ## Issue/Suggestions
 
-If met any issues, go [here](https://github.com/Mashwishi/CUEBEE/issues) to report bug and create new issue for supporting
+If met any issues, go [here](https://github.com/NotHassanXD/Basic-Server-Setup/issues) to report bug and create new issue for supporting
 
 ## Github Repository
 
-CUEBEE Made by Mashwishi, project [Here](https://github.com/Mashwishi/CUEBEE)
+Basic-Survival-Setup Made by MrStax/NotHassnXD, project [Here](https://github.com/NotHassanXD/Basic-Survival-Setup/)
 
 ---
 
@@ -109,4 +109,4 @@ CUEBEE Made by Mashwishi, project [Here](https://github.com/Mashwishi/CUEBEE)
 </div>
 
 [support-invite]: https://discord.gg/WAh8eaF2Qq
-[support-image]: https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2
+[support-image]: https://discord.com/widget?id=1053287321300107317&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts
