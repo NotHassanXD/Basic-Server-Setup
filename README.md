@@ -12,7 +12,7 @@
 <!-- [![support][support-image]][support-invite]-->
 
  <p align="center">
-             https://discord.com/widget?id=1053287321300107317&theme=dark
+             <a src="https://discord.com/widget?id=1053287321300107317&theme=dark"/>
          </p>
 
 
