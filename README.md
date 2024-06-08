@@ -2,9 +2,9 @@
 <img src="https://lh3.googleusercontent.com/HbmlfI9ZwNYN0J9S68DCWR3EipDC0Uz-s1PAYAC-YRUWOmmAirqEqTSsQ0bX9di01z0" width="15%"/></a>
   <h1>Basic Survival Setup</h1>
 
-  <h3>Version 1.0.0</h3>
+  <h3>Version 1.0</h3>
 
-  <h4>Created by <a href="https://discord.gg/staxgaming/">MrStax</a> | Powered by <a href="https://geysermc.org/">Geysermc</a> & <a href="https://github.com/PaperMC">PaperMC</a></h4>
+  <h4>Created by <a href="https://discord.gg/2VxMar6Q8n">MrStax</a> | Powered by <a href="https://geysermc.org/">Geysermc</a> & <a href="https://github.com/PaperMC">PaperMC</a></h4>
 
  
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B14A4MU) -->
@@ -104,9 +104,8 @@ Basic-Survival-Setup Made by MrStax/NotHassnXD, project [Here](https://github.co
 ---
 
 <div align="center">
-<p>Recommended Hosting (<i>This is affiliated link, Not officially endorsed or sponsored by Pebblehost</i>)</p>
-  <a href="https://billing.pebblehost.com/aff.php?aff=1764"><img alt="PebbleHosting - Discord Bot Hosting" src="https://pebblehost.com/src/img/branding/banner1.gif"></a>
+<p>Recommended Hosting (<i>This is affiliated link, Not officially endorsed or sponsored by XiteNodes</i>)</p>
+   <a href="https://billing.xitenodes.com/aff.php?aff=7"><img alt="XiteNodes - Paid Server Hosting" src="https://media.discordapp.net/attachments/879031482113466440/1248882423689904209/standard.gif?ex=666547e4&is=6663f664&hm=032bc17712e0f4075c795943d6ccacd7dfb59ba9841caeb500b4f94137580291"></a>
 </div>
 
-[support-invite]: https://discord.gg/WAh8eaF2Qq
-[support-image]: https://discord.com/widget?id=1053287321300107317&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts
+[support-invite]: https://discord.gg/2VxMar6Q8n
