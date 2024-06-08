@@ -56,19 +56,19 @@ This is how you will set-up and host your cross-version and cross-platform Minec
 
 ### Requirements
 
-- Java Version 16 (Important)
-- Atleast 5GB of Ram (Minimum for 1.17.x)
+- Java Version 21 (Important)
+- Atleast 6GB of Ram (Minimum for 1.20.x)
 - Quad-Core CPU/Processor or higher (4 Cores)
 
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/mashwishi/CUEBEE.git
+   gh repo clone NotHassanXD/MINE-LAND
    ```
-2. Configure run.bat and modify `5G` to your desire ram.
+2. Configure run.bat and modify `6G` to your desire ram.
    ```bat
-    :: IGNORE THIS IF YOU'RE NOT SELF-HOSTING, KINDLY DON'T INCLUDE THIS FILE!
-    java -Xmx5G -Xms5G -jar paper.jar nogui
+    :: IGNORE THIS IF YOU'RE NOT SELF-HOSTING ON YOUR SYSTEM, KINDLY DON'T INCLUDE THIS FILE!
+    java -Xmx6G -Xms6G -jar server.jar nogui
     PAUSE
    ```
 3. After that kindly run `start.bat` file. This will start your minecraft server
