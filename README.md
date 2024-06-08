@@ -63,7 +63,7 @@ This is how you will set-up and host your cross-version and cross-platform Minec
 ### Installation
 1. Clone the repo
    ```sh
-   gh repo clone NotHassanXD/MINE-LAND
+   https://github.com/NotHassanXD/Basic-Server-Setup.git
    ```
 2. Configure run.bat and modify `6G` to your desire ram.
    ```bat
