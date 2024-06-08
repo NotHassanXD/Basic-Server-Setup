@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1239852537037717605/1248872686613041183/OIG4.jpg?ex=66653ed3&is=6663ed53&hm=179968d5b72ff3dea98f6be15e101c81a592b566915eeb03b37981058a7bcb90" width="15%"/></a>
-  <h1>Mine Land</h1>
+  <h1>Basic Survival Setup</h1>
 
   <h3>Version 1.0.0</h3>
 
@@ -12,9 +12,7 @@
 <!-- [![support][support-image]][support-invite]-->
 
  <p align="center">
-            <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
-          <br/><br/>
-            <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discordapp.com/api/guilds/779997243159216149/widget.png?style=banner2" alt="Discord Banner 2"/>    </a>
+            <a href="https://discord.gg/WAh8eaF2Qq"><img align="center" src="https://discord.com/api/guilds/1053287321300107317/widget.json" alt="Discord Banner 2"/>    </a>
          </p>
 
 
@@ -26,9 +24,9 @@
 
 ---
 
-<h2 align="center">What is this Cuebee?</h2>
+<h2 align="center">What is this?</h2>
 
-<strong><a href="https://discord.io/LIMYAW">CUEBEE</a></strong> is a Pre-made Minecraft Server 1.17.1 that supports Java Edition and Bedrock Edition to play in one running server. Java(PC/Laptop) players can join Bedrock users playing at PC/Laptop, Mobile Device, PlayStation 4 and Nintendo Switch.
+It is a Pre-made Basic Minecraft Server 1.20.4 that supports Java Edition and Bedrock Edition to play in one running server. Java(PC/Laptop) players can join Bedrock users playing at PC/Laptop, Mobile Device, PlayStation 4 and Nintendo Switch.
 
 <img src="https://i.imgur.com/LHTxVDB.jpg" width="100%"/>
 
