@@ -43,7 +43,7 @@ It is a Pre-made Basic Minecraft Server 1.20.4 that supports Java Edition and Be
 <h2 align="center">Setup Tutorial</h2>
 
 <div align="center">
-<p>Recommended Hosting (<i>This is affiliated link, Not officially endorsed or sponsored by XiteNodes</i>)</p>
+<p>Recommended Hosting (<i>This is affiliated link, Not officially endorsed or sponsored by IcePeak Hosting</i>)</p>
   <a href="https://discord.gg/TftXrjfkpu"><img alt="IcePeak Hosting - Premium Server Hosting" src="https://cdn.discordapp.com/attachments/1053297331707056158/1258125027149086912/standard.gif?ex=6686e7bd&is=6685963d&hm=68d9fff756affe808b924f57e90f64eb439e68725991050a36a3a38ce9f79c80&"></a>
 </div>
 
@@ -104,7 +104,7 @@ Basic-Survival-Setup Made by MrStax/NotHassnXD, project [Here](https://github.co
 ---
 
 <div align="center">
-<p>Recommended Hosting (<i>This is affiliated link, Not officially endorsed or sponsored by XiteNodes</i>)</p>
+<p>Recommended Hosting (<i>This is affiliated link, Not officially endorsed or sponsored by IcePeak Hosting</i>)</p>
    <a href="https://discord.gg/TftXrjfkpu"><img alt="IcePeak Hosting - Premium Server Hosting" src="https://cdn.discordapp.com/attachments/1053297331707056158/1258125027149086912/standard.gif?ex=6686e7bd&is=6685963d&hm=68d9fff756affe808b924f57e90f64eb439e68725991050a36a3a38ce9f79c80&"></a>
 </div>
 
