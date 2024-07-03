@@ -4,7 +4,7 @@
 
   <h3>Version 1.0</h3>
 
-  <h4>Created by <a href="https://discord.gg/2VxMar6Q8n">MrStax</a> | Powered by <a href="https://geysermc.org/">Geysermc</a> & <a href="https://github.com/PaperMC">PaperMC</a></h4>
+  <h4>Created by <a href="https://discord.gg/2VxMar6Q8n">MrStax</a> | Powered by <a href="https://discord.gg/TftXrjfkpu">IcePeak Hosting</a> </h4>
 
  
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B14A4MU) -->
@@ -44,7 +44,7 @@ It is a Pre-made Basic Minecraft Server 1.20.4 that supports Java Edition and Be
 
 <div align="center">
 <p>Recommended Hosting (<i>This is affiliated link, Not officially endorsed or sponsored by XiteNodes</i>)</p>
-  <a href="https://billing.xitenodes.com/aff.php?aff=7"><img alt="XiteNodes - Paid Server Hosting" src="https://media.discordapp.net/attachments/879031482113466440/1248882423689904209/standard.gif?ex=666547e4&is=6663f664&hm=032bc17712e0f4075c795943d6ccacd7dfb59ba9841caeb500b4f94137580291"></a>
+  <a href="https://discord.gg/TftXrjfkpu"><img alt="IcePeak Hosting - Premium Server Hosting" src="https://cdn.discordapp.com/attachments/1053297331707056158/1258125027149086912/standard.gif?ex=6686e7bd&is=6685963d&hm=68d9fff756affe808b924f57e90f64eb439e68725991050a36a3a38ce9f79c80&"></a>
 </div>
 
 > If you have questions related to Geyser and FloodGate, please contact [Geyser](https://discord.gg/geysermc), This project is created for set-up tutorial only. **You'll be on your own when you try to add plugins and update to higher version.**
@@ -105,7 +105,7 @@ Basic-Survival-Setup Made by MrStax/NotHassnXD, project [Here](https://github.co
 
 <div align="center">
 <p>Recommended Hosting (<i>This is affiliated link, Not officially endorsed or sponsored by XiteNodes</i>)</p>
-   <a href="https://billing.xitenodes.com/aff.php?aff=7"><img alt="XiteNodes - Paid Server Hosting" src="https://media.discordapp.net/attachments/879031482113466440/1248882423689904209/standard.gif?ex=666547e4&is=6663f664&hm=032bc17712e0f4075c795943d6ccacd7dfb59ba9841caeb500b4f94137580291"></a>
+   <a href="https://discord.gg/TftXrjfkpu"><img alt="IcePeak Hosting - Premium Server Hosting" src="https://cdn.discordapp.com/attachments/1053297331707056158/1258125027149086912/standard.gif?ex=6686e7bd&is=6685963d&hm=68d9fff756affe808b924f57e90f64eb439e68725991050a36a3a38ce9f79c80&"></a>
 </div>
 
 [support-invite]: https://discord.gg/2VxMar6Q8n
