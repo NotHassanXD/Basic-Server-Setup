@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://lh3.googleusercontent.com/HbmlfI9ZwNYN0J9S68DCWR3EipDC0Uz-s1PAYAC-YRUWOmmAirqEqTSsQ0bX9di01z0" width="15%"/></a>
-  <h1>Basic Survival Setup</h1>
+  <h1>Basic Server Setup</h1>
 
   <h3>Version 1.0</h3>
 
