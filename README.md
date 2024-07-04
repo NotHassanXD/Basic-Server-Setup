@@ -26,7 +26,7 @@
 
 <h2 align="center">What is this?</h2>
 
-It is a Pre-made Basic Minecraft Server 1.20.4 that supports Java Edition and Bedrock Edition to play in one running server. Java(PC/Laptop) players can join Bedrock users playing at PC/Laptop, Mobile Device, PlayStation 4 and Nintendo Switch.
+It is a Pre-made Basic Minecraft Server 1.21.x that supports Java Edition and Bedrock Edition to play in one running server. Java(PC/Laptop) players can join Bedrock users playing at PC/Laptop, Mobile Device, PlayStation 4 and Nintendo Switch.
 
 <img src="https://i.ytimg.com/vi/erLCVRsySy8/maxresdefault.jpg"/>
 
@@ -57,7 +57,7 @@ This is how you will set-up and host your cross-version and cross-platform Minec
 ### Requirements
 
 - Java Version 21 (Important)
-- Atleast 6GB of Ram (Minimum for 1.20.x)
+- Atleast 6GB of Ram (Minimum for 1.21.x)
 - Quad-Core CPU/Processor or higher (4 Cores)
 
 ### Installation
