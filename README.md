@@ -103,7 +103,7 @@ Basic-Survival-Setup Made by MrStax/NotHassnXD, project [Here](https://github.co
 
 ## New Releases
 
-If u want the setup for old or latest verison u can find in releases. [Here](https://github.com/NotHassanXD/Basic-Server-Setup/releases)
+If you want the setup for old or latest verison you can find in releases. [Here](https://github.com/NotHassanXD/Basic-Server-Setup/releases)
 
 ---
 
