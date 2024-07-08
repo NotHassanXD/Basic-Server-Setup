@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://lh3.googleusercontent.com/HbmlfI9ZwNYN0J9S68DCWR3EipDC0Uz-s1PAYAC-YRUWOmmAirqEqTSsQ0bX9di01z0" width="15%"/></a>
+<img src="https://cdn.discordapp.com/attachments/879031482113466440/1259911442124116129/5e27bd0e-b486-4234-b719-fbbc377f48aa.jpg?ex=668d6777&is=668c15f7&hm=7b8b0d38bc1f7533df885d6a82b23d58c6c92668a370936e33f2bf7c205aefac&" width="15%"/></a>
   <h1>Basic Server Setup</h1>
 
   <h3>Version 1.0</h3>
