@@ -15,8 +15,6 @@
              <img src="https://media.discordapp.net/attachments/1159205139333259414/1258368486565220393/image.png?ex=6687ca7a&is=668678fa&hm=2673403c045c780855d3ac6a0a6cf182f5176f76786f1146350a479796021488&=&format=webp&quality=lossless"/>
          </p>
          
-<h4 align="center">TEST SERVER: TEST.STAXHOST.CLOUD</h4>
-
 
 
  <br>
