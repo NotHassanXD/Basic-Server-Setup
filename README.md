@@ -101,6 +101,10 @@ If met any issues, go [here](https://github.com/NotHassanXD/Basic-Server-Setup/i
 
 Basic-Survival-Setup Made by MrStax/NotHassnXD, project [Here](https://github.com/NotHassanXD/Basic-Survival-Setup/)
 
+## New Releases
+
+If u want the setup for old or latest verison u can find in releases. [Here](https://github.com/NotHassanXD/Basic-Server-Setup/releases)
+
 ---
 
 <div align="center">
